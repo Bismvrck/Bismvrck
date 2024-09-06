@@ -1,3 +1,10 @@
+### Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bismvrck&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismvrck&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @Bismvrck
 - 👀 I’m interested in Backend Development, Cloud Development, Docker Apps
 - 🌱 I’m currently learning Golang
@@ -5,8 +12,10 @@
 - 😄 Pronouns: Attack Helicopter
 - ⚡ Fun fact: Now you're breathing manually
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-Bismvrck/Bismvrck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡️ Fun fact: ...
+-->
