@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bismvrck&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👋 Hi, I’m @Bismvrck
+- 👋 Hi, I’m syamil
 - 👀 I’m interested in Backend Development, Cloud Development, Docker Apps
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me fayruzsyamil@jatelindo.co.id
